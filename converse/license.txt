@@ -1,0 +1,11 @@
+Model Information:
+* title:	Converse One Star
+* source:	https://sketchfab.com/3d-models/converse-one-star-7bed53213ce44365b31dadebb8b778dc
+* author:	antonhavemercy (https://sketchfab.com/antonhavemercy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Converse One Star" (https://sketchfab.com/3d-models/converse-one-star-7bed53213ce44365b31dadebb8b778dc) by antonhavemercy (https://sketchfab.com/antonhavemercy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

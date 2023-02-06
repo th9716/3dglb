@@ -1,0 +1,11 @@
+Model Information:
+* title:	Muestra Zapatos
+* source:	https://sketchfab.com/3d-models/muestra-zapatos-46c6e255fb0647748571f50e79477cc9
+* author:	Marcokiyo (https://sketchfab.com/Marcokiyo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Muestra Zapatos" (https://sketchfab.com/3d-models/muestra-zapatos-46c6e255fb0647748571f50e79477cc9) by Marcokiyo (https://sketchfab.com/Marcokiyo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

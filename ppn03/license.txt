@@ -1,0 +1,11 @@
+Model Information:
+* title:	ppn03白
+* source:	https://sketchfab.com/3d-models/ppn03-3c6737c169aa4619b9a00e4ae90a9624
+* author:	yihsuanchen13 (https://sketchfab.com/yihsuanchen13)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ppn03白" (https://sketchfab.com/3d-models/ppn03-3c6737c169aa4619b9a00e4ae90a9624) by yihsuanchen13 (https://sketchfab.com/yihsuanchen13) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
